@@ -1,7 +1,7 @@
 {
-    "name": "cBit",
+    "name": "mCar",
     "version": "1.1.0",
-    "description": "Extension for ZYRobot micro:bit",
+    "description": "桃李智能小车少儿编程！",
     "license": "MIT",
     "dependencies": {
         "core": "*",
